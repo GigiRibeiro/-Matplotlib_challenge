@@ -1,2 +1,2 @@
-# -Matplotlib_challenge
+# Matplotlib_challenge
 Week 5 Challenge
